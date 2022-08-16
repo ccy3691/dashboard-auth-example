@@ -52,6 +52,8 @@ Created by [Jared Hanson](https://www.jaredhanson.me/)
 
 
 ## TODO
-Create dockerfile for mongo instance
-Swap all instances of sql lite to mongo (https://www.npmjs.com/package/connect-mongo)
-Get a login screen with passport and mongo as the store working
+[ ] Create dockerfile for mongo instance
+
+[ ] Swap all instances of sql lite to mongo (https://www.npmjs.com/package/connect-mongo)
+
+[ ] Get a login screen with passport and mongo as the store working
